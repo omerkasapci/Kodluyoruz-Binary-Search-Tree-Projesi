@@ -1,4 +1,4 @@
-# Kodluyoruz-Search-Tree-Projesi
+# Kodluyoruz-Binary-Search-Tree-Projesi
 <h2>https://app.patika.dev/moduller/veri-yapilari-ve-algoritmalar/www.patika.dev </h2>
 <h3>1 [7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamalarını yazınız. </h3>
 <pre>
